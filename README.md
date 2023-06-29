@@ -15,4 +15,9 @@
 
 ![Screenshot 2023-06-29 at 5 44 40 PM](https://github.com/suva007/Email-Service/assets/38084433/d011f851-fefe-4545-9eac-c8a63961aaa5)
 
+## Expect a confirmation email and few emails before the main event
+
+![WhatsApp Image 2023-06-29 at 5 47 26 PM](https://github.com/suva007/Email-Service/assets/38084433/2fbff0c5-311a-48ef-8447-f8be100c19d5)
+
+
 ## :wink: Thanks
